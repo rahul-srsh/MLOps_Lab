@@ -1,0 +1,35 @@
+# Airflow generated files
+logs/
+*.log
+airflow-*.pid
+airflow-webserver.pid
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Environment files
+.env
+.env.local
+
+# Docker volumes
+postgres-db-volume/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.backup
+*.bak
