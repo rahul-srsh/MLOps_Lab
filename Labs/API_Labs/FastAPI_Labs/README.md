@@ -1,6 +1,6 @@
----
-- Original Lab Reference: [FastAPI lab video](https://www.youtube.com/watch?v=KReburHqRIQ&list=PLcS4TrUUc53LeKBIyXAaERFKBJ3dvc9GZ&index=4)
-- Original Blog: [FastAPI Lab-1](https://www.mlwithramin.com/blog/fastapi-lab1)
+## References
+- [FastAPI lab video](https://www.youtube.com/watch?v=KReburHqRIQ&list=PLcS4TrUUc53LeKBIyXAaERFKBJ3dvc9GZ&index=4)
+- [FastAPI Lab-1 Blog](https://www.mlwithramin.com/blog/fastapi-lab1)
 
 ---
 
